@@ -4,6 +4,7 @@ Article: A Recurrent Neural Network for Attenuating Non-cognitive Components of 
 Authors: Sharath Koorathota, Kaveri Thakoor, Linbi Hong, Yaoli Mao, Patrick Adelman and Paul Sajda
 
 Link: https://www.frontiersin.org/articles/10.3389/fpsyg.2021.604522/full
+
 Contact: Sharath Koorathota (sk4172@columbia.edu)
 
 ## Data Processing
