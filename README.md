@@ -1,6 +1,7 @@
 # Pupil Diameter Prediction with LSTM Architecture
 
 Article: A Recurrent Neural Network for Attenuating Non-cognitive Components of Pupil Dynamics
+
 Authors: Sharath Koorathota, Kaveri Thakoor, Linbi Hong, Yaoli Mao, Patrick Adelman and Paul Sajda
 
 Link: https://www.frontiersin.org/articles/10.3389/fpsyg.2021.604522/full
