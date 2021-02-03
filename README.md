@@ -4,6 +4,7 @@ Article: A Recurrent Neural Network for Attenuating Non-cognitive Components of 
 Authors: Sharath Koorathota, Kaveri Thakoor, Linbi Hong, Yaoli Mao, Patrick Adelman and Paul Sajda
 
 Link: https://www.frontiersin.org/articles/10.3389/fpsyg.2021.604522/full
+Contact: Sharath Koorathota (sk4172@columbia.edu)
 
 ## Data Processing
 1. Uses raw data from the eyelink eye tracker, with classifications (blinks, saccades, fixations, etc.),
@@ -17,7 +18,7 @@ Link: https://www.frontiersin.org/articles/10.3389/fpsyg.2021.604522/full
 1. Aggregates performance from BiLSTM in addition to some off-the-shelf models.
 
 
-## Analysis
+## Analysis (available on request)
 1. Compares BiLSTM performance, with and without AOI, with off-the shelf models,
 1. Correlates performance data from participant demographic surveys with model accuracy and residuals,
 1. t-SNE plots of embeddings for similarity analysis.
