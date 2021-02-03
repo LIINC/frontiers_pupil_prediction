@@ -1,6 +1,9 @@
 # Pupil Diameter Prediction with LSTM Architecture
 
-Working version on Google Cloud
+Article: A Recurrent Neural Network for Attenuating Non-cognitive Components of Pupil Dynamics
+Authors: Sharath Koorathota, Kaveri Thakoor, Linbi Hong, Yaoli Mao, Patrick Adelman and Paul Sajda
+
+Link: https://www.frontiersin.org/articles/10.3389/fpsyg.2021.604522/full
 
 ## Data Processing
 1. Uses raw data from the eyelink eye tracker, with classifications (blinks, saccades, fixations, etc.),
